@@ -1,5 +1,7 @@
 # Page Pulse
 
+Live Demo : https://page-pulse-woad-phi.vercel.app/
+
 Page Pulse is a small full-stack web auditing tool built for the Digital Heroes Training Task. Enter a public HTTP/HTTPS URL and the application returns useful page-level metrics.
 
 ## Features
@@ -124,6 +126,6 @@ Set `VITE_API_URL` in the frontend deployment to the public backend URL.
 
 ## Required Credit
 
-The live frontend includes a visible footer link:
+The live frontend includes a visible footer link: https://page-pulse-woad-phi.vercel.app/
 
 [Built for Digital Heroes Training Task](https://digitalheroesco.com)
