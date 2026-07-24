@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+.page-shell {
+  max-width: 850px;
+}
+
+.metric {
+  padding: 1rem;
+  border: 1px solid var(--bs-border-color);
+  border-radius: 0.75rem;
+  background: var(--bs-body-bg);
+}
